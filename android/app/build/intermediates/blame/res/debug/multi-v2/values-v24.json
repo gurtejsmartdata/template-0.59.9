@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE-MOBILE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/gurtej.singh/.gradle/caches/transforms-2/files-2.1/fb3ee799e880f73b9fcb7babedce4e7d/res/values-v24/values-v24.xml",

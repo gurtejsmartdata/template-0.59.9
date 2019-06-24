@@ -3,6 +3,7 @@ package com.osce;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.BV.LinearGradient.LinearGradientPackage;
 import com.facebook.react.ReactNativeHost;
@@ -16,40 +17,7 @@ import java.util.List;
 import com.reactnativenavigation.NavigationApplication;
 import com.reactnativenavigation.react.NavigationReactNativeHost;
 import com.reactnativenavigation.react.ReactGateway;
-// public class MainApplication extends Application implements NavigationApplication {
 
-//   private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
-//     @Override
-//     public boolean getUseDeveloperSupport() {
-//       return BuildConfig.DEBUG;
-//     }
-
-//     @Override
-//     protected List<ReactPackage> getPackages() {
-//       return Arrays.<ReactPackage>asList(
-//           new MainReactPackage(),
-//             new VectorIconsPackage(),
-//             new LinearGradientPackage()
-//       );
-//     }
-
-//     @Override
-//     protected String getJSMainModuleName() {
-//       return "index";
-//     }
-//   };
-
-//   @Override
-//   public ReactNativeHost getReactNativeHost() {
-//     return mReactNativeHost;
-//   }
-
-//   @Override
-//   public void onCreate() {
-//     super.onCreate();
-//     SoLoader.init(this, /* native exopackage */ false);
-//   }
-// }
 public class MainApplication extends NavigationApplication {
     
     @Override
@@ -73,7 +41,8 @@ public class MainApplication extends NavigationApplication {
         // No need to add RnnPackage and MainReactPackage
         return Arrays.<ReactPackage>asList(
             new VectorIconsPackage(),
-            new LinearGradientPackage()
+            new LinearGradientPackage(),
+            new SplashScreenReactPackage()
         );
     }
   

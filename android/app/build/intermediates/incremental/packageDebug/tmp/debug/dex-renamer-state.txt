@@ -1,4 +1,4 @@
-#Mon Jun 24 11:10:24 IST 2019
-base.0=/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon Jun 24 16:12:32 IST 2019
+base.0=/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE-MOBILE/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

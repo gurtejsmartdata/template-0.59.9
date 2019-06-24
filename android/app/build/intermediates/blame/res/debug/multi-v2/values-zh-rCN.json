@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE-MOBILE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "/Users/gurtej.singh/.gradle/caches/transforms-2/files-2.1/2a8aadcf196c3d5f4dff6fbb48c9010d/res/values-zh-rCN/values-zh-rCN.xml",

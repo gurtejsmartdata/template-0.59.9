@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/gurtej.singh/Documents/Gurtej/WorkSpace/OSCI.AI/OSCE-MOBILE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/gurtej.singh/.gradle/caches/transforms-2/files-2.1/b04ae821decc52ec05e44fa48e965190/res/values-sw600dp-v13/values-sw600dp-v13.xml",
